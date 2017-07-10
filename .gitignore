@@ -4,3 +4,5 @@
 
 /MessagingDemo/.vs/MessagingDemo/v14/.suo
 /MessagingDemo/Client/obj/Debug
+/MessagingDemo/WebClient/bin
+/MessagingDemo/WebClient/obj/Debug
