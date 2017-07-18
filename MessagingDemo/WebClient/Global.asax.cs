@@ -12,6 +12,7 @@ namespace WebClient
     {
         protected void Application_Start()
         {
+            //addd hub mapping
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
